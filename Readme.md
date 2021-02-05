@@ -1,17 +1,27 @@
-# **Assignment Title**  
+# **Length of Three**  
 
 ## **Assignment Description**  
-
+Create a function called length3() that returns the total leng of three given words x, y, and z.
 
 ## **Examples**  
->
+>length3("cat", "dog", "rat")  
+6  
+
+>length3("bear", "tiger", "lion")  
+14  
 
 ## **Limitations**  
+1 function  
+0 for loops  
+0 if statements  
+0 else  
 
 ## **Hints**  
+len(w) returns the length of w  
+w[0] returns the first letter of w
 
 ## **Concepts**  
-
+Unit 1, Unit 2, lists
 ---
 
 ## **How to complete this assignment**
